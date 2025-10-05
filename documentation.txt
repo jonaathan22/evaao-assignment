@@ -1,0 +1,2 @@
+Design Choice:
+Given the tight deadline, I chose to build a simple Command-Line Interface (CLI) using standard Python libraries. This approach is fast, efficient, and directly meets the core requirements. For data storage, I used a JSON file for its simplicity and human-readability.
